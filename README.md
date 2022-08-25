@@ -1,6 +1,6 @@
 # Shopify Landing Page Clone
 
-##### Published Url:-[Shopify Home Page](https://gentle-wisp-9b1432.netlify.app/)
+##### Published Url:-[Shopify Home Page](https://fabulous-sundae-33260f.netlify.app/)
 
 
 <img src="https://github.com/sirugudipraveen3637/shopifyclone/blob/main/shopify.png" height="50%" width="100%"/>
