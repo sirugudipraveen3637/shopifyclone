@@ -3,7 +3,7 @@
 ##### Published Url:-[Shopify Home Page](https://gentle-wisp-9b1432.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/rodeclone/blob/main/rode.png" height="50%" width="100%"/>
+<img src="https://github.com/sirugudipraveen3637/shopifyclone/blob/main/shopify.png" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
